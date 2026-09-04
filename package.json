@@ -1,0 +1,20 @@
+{
+  "name": "glimmer-novel-website",
+  "version": "1.1.0",
+  "private": true,
+  "type": "module",
+  "description": "宵荧·执笔 (Teneglim Scribe) 官方网站 - 介绍与下载",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview --host"
+  },
+  "dependencies": {
+    "vue": "^3.4.21"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.4",
+    "sass": "^1.71.1",
+    "vite": "^5.2.0"
+  }
+}
